@@ -2,18 +2,18 @@
 
 ### Data
 Data: https://www.ncbi.nlm.nih.gov/sra/SRX025959[accn] <br>
-Submitted by: University of Michigan
+Submitted by: University of Michigan<br>
 Study: Pooled linkage analysis for discovery of Saccharomyces cerevisiae functional mutations by whole genome sequencing
-Abstract:
-In order to identify the yeast genes that are mutated in vac6 and vac22 mutants, each mutant strain was backcrossed against a wild-type yeast strain. Phenotypically wild-type and mutant segregants were then pooled and subjected to mate-pair sequencing, i.e. sequencing was applied to one wild-type and one mutant pool for each strain (four libraries in total). The data were mined for mutations evident in the sequence that were present only in the mutant, but not the wild-type, pool for each strain.
-Sample: Yeast vac22, wild-type segregant pool
-Organism: Saccharomyces cerevisiae
-Name: vac22 wt
-Instrument: Illumina Genome Analyzer
-Strategy: WGS
-Source: GENOMIC
-Selection: RANDOM
-Layout: PAIRED
+Abstract:<br>
+In order to identify the yeast genes that are mutated in vac6 and vac22 mutants, each mutant strain was backcrossed against a wild-type yeast strain. Phenotypically wild-type and mutant segregants were then pooled and subjected to mate-pair sequencing, i.e. sequencing was applied to one wild-type and one mutant pool for each strain (four libraries in total). The data were mined for mutations evident in the sequence that were present only in the mutant, but not the wild-type, pool for each strain.<br>
+Sample: Yeast vac22, wild-type segregant pool<br>
+Organism: Saccharomyces cerevisiae<br>
+Name: vac22 wt<br>
+Instrument: Illumina Genome Analyzer<br>
+Strategy: WGS<br>
+Source: GENOMIC<br>
+Selection: RANDOM<br>
+Layout: PAIRED<br>
 
 ### Steps of analysis:
 1. Acquiring raw data - SRA repositorium
