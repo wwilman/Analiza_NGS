@@ -1,7 +1,7 @@
 # NGS analysis - SNP variant detection
 
 ### Data
-Data: https://www.ncbi.nlm.nih.gov/sra/SRX025959[accn]
+Data: https://www.ncbi.nlm.nih.gov/sra/SRX025959[accn] <br>
 Submitted by: University of Michigan
 Study: Pooled linkage analysis for discovery of Saccharomyces cerevisiae functional mutations by whole genome sequencing
 Abstract:
