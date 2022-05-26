@@ -1,0 +1,12 @@
+    3 samples
+13197 positions
+39852 calls
+12145 heterozygous calls
+27707 homozygous calls
+12239 reference calls
+23139 snp calls
+ 5758 indel calls
+    0 other variant calls
+    0 missing calls
+    0 calls PASS filter
+    0 calls failing any filter
